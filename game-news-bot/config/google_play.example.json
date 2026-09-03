@@ -1,0 +1,12 @@
+{
+  "discord_webhook_urls": [
+    "https://discord.com/api/webhooks/REPLACE_ME",
+    "https://discord.com/api/webhooks/OPTIONAL_SECOND_WEBHOOK"
+  ],
+  "run_at": "09:00",
+  "timezone": "Asia/Seoul",
+  "country": "KR",
+  "language": "ko",
+  "top_count": 10,
+  "state_file": "data/google_play_previous.json"
+}

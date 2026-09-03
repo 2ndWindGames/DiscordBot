@@ -1,0 +1,9 @@
+{
+  "discord_webhook_urls": [
+    "https://discord.com/api/webhooks/REPLACE_ME",
+    "https://discord.com/api/webhooks/OPTIONAL_SECOND_WEBHOOK"
+  ],
+  "check_interval_minutes": 180,
+  "initial_article_count": 5,
+  "max_articles_per_check": 5
+}
